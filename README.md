@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohsinHussainShaikh
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning kafka
-- 💞️ I’m looking to collaborate on Kafka Administration 
+- 🌱 I’m currently learning Devops
+- 💞️ I’m looking to collaborate on Devops 
 - 📫
 
 <!---
